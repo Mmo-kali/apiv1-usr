@@ -67,7 +67,7 @@ Ensure that the API is not exposed to the public internet without proper securit
 
 ## Documentation
 
-For further details on request formats and additional parameters, refer to the API documentation available on GitHub.
+For further details on request formats and additional parameters, refer to the API source-code.
 
 ## Support
 
