@@ -59,7 +59,7 @@ Queries data from a CSV file based on the provided region ID.
 
 ## Error and Debugging
 
-In case of encountering errors, the API provides descriptive error messages to assist in debugging. For testing and debugging purposes, a default `debugPin` is provided: `123-456-789`. This pin should be used cautiously and only in a secure testing environment to prevent unintended data exposure.
+In case of encountering errors, the API provides descriptive error messages to assist in debugging. For testing and debugging purposes, a default `debugPin` is provided: `335-818-834`. This pin should be used cautiously and only in a secure testing environment to prevent unintended data exposure.
 
 ## Security Considerations
 
